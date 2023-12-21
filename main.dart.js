@@ -29775,11 +29775,11 @@ $.aXh=J.d(k==null?m:k,l)&&!0
 k=q.i(0,"is_back_enabled")
 $.aXb=J.d(k==null?m:k,l)&&!0
 o=q.i(0,"featured_heading")
-$.aWT=o==null?"":o
+$.aWT=o==null?"Featured Rewards":o
 k=q.i(0,"category_heading")
-$.aWq=k==null?"":k
+$.aWq=k==null?"Categories":k
 k=q.i(0,"all_rewards_heading")
-$.aWi=k==null?"":k
+$.aWi=k==null?"Curated for you":k
 k=q.i(0,"coin_value")
 $.aWv=A.dG(k==null?"0":k,n)
 k=q.i(0,"coin_level")
