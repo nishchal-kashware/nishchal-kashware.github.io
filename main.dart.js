@@ -103287,7 +103287,7 @@ A.aDD.prototype={
 $0(){var s=A.pm(B.e.j(this.a.w)),r=this.b.a
 if(r==null)r=null
 else{r=r.x2
-r=r==null?null:r.f}if(s<(r==null?0:r))A.aWt("You doesn't have enough "+$.a8j+" to redeem")},
+r=r==null?null:r.f}if(s<(r==null?0:r))A.aWt("You do not have enough "+$.a8j+" to redeem this reward")},
 $S:0}
 A.aDC.prototype={
 $0(){var s=0,r=A.O(t.P),q=this,p
@@ -103659,7 +103659,7 @@ p=p.b
 if(p==null)p=""
 m=$.aJl()
 l=$.bl().a
-l=A.aJ(p,2,j,j,j,m.lH(A.S(153,l>>>16&255,l>>>8&255,l&255),11*$.C().gb6(),B.l),B.bn,j)
+l=A.aJ(p,2,j,j,j,m.lH(A.S(153,l>>>16&255,l>>>8&255,l&255),12*$.C().gb6(),B.l),B.bn,j)
 m=$.C()
 p=m.gT()
 m=m.a
