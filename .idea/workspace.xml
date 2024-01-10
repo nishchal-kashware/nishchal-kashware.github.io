@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef0fef57-ec96-4617-a75c-172f616ad69c" name="Changes" comment="">
+    <list default="true" id="37b7be24-d091-47f6-a1ff-ae5cb1b35974" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef0fef57-ec96-4617-a75c-172f616ad69c" name="Changes" comment="" />
+      <changelist id="37b7be24-d091-47f6-a1ff-ae5cb1b35974" name="Changes" comment="" />
       <created>1703661747894</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -79,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703691094550</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="staging changes">
+      <created>1704194286507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704194286508</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
