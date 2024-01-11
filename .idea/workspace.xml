@@ -91,12 +91,20 @@
       <option name="project" value="LOCAL" />
       <updated>1704960985822</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="staging bugs fixes">
+      <created>1704961127716</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704961127716</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="prod changes" />
     <MESSAGE value="staging changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="staging changes" />
+    <MESSAGE value="staging bugs fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="staging bugs fixes" />
   </component>
 </project>

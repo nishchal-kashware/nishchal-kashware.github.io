@@ -101235,8 +101235,8 @@ r.d=B.oB
 s.Lu$===$&&A.b()
 r.sa_C(0,A.aH(["Content-Type","application/json; charset=UTF-8","secret_id",$.aXE],t.N,t.z))},
 gaqd(){var s="https://reward-engine-stage.slaypay.app/"
-switch($.aQE){case B.KQ:return s
-case B.p_:return"https://reward-engine.slaypay.app/"
+switch($.aQE){case B.p_:return s
+case B.KQ:return"https://reward-engine.slaypay.app/"
 default:return s}},
 v7(a,b){return this.a46(a,b)},
 a46(a,b){var s=0,r=A.O(t.In),q,p=2,o,n=this,m,l,k,j,i,h
@@ -113739,8 +113739,8 @@ B.oZ=new A.tH(2,"medium")
 B.hc=new A.tH(3,"high")
 B.q=new A.U(0,0)
 B.KP=new A.RJ(B.q,B.q)
-B.KQ=new A.RL(0,"DEV")
-B.p_=new A.RL(1,"PROD")
+B.p_=new A.RL(0,"DEV")
+B.KQ=new A.RL(1,"PROD")
 B.KR=new A.xP(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.p0=new A.E_(0,"Start")
 B.k9=new A.E_(1,"Update")
